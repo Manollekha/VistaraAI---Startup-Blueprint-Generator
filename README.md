@@ -1,10 +1,10 @@
-# 🚀 Startup Blueprint Generator Agent
+# VistaraAI - Startup Blueprint Generator Agent
 
 ## 🧩 Problem Statement
 Many aspiring entrepreneurs struggle to turn raw ideas into viable startups due to:
-- ❌ Lack of structured guidance
-- ❌ Limited access to market/funding/legal data
-- ❌ No clear roadmap or investor links
+- Lack of structured guidance
+- Limited access to market/funding/legal data
+- No clear roadmap or investor links
 
 This causes delays or failure in execution — especially for first-time founders.
 
